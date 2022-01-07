@@ -1,0 +1,16 @@
+C:\Users\Cristiano\BaltaStrings\bin\Debug\net5.0\BaltaStrings.exe
+C:\Users\Cristiano\BaltaStrings\bin\Debug\net5.0\BaltaStrings.deps.json
+C:\Users\Cristiano\BaltaStrings\bin\Debug\net5.0\BaltaStrings.runtimeconfig.json
+C:\Users\Cristiano\BaltaStrings\bin\Debug\net5.0\BaltaStrings.runtimeconfig.dev.json
+C:\Users\Cristiano\BaltaStrings\bin\Debug\net5.0\BaltaStrings.dll
+C:\Users\Cristiano\BaltaStrings\bin\Debug\net5.0\ref\BaltaStrings.dll
+C:\Users\Cristiano\BaltaStrings\bin\Debug\net5.0\BaltaStrings.pdb
+C:\Users\Cristiano\BaltaStrings\obj\Debug\net5.0\BaltaStrings.csproj.AssemblyReference.cache
+C:\Users\Cristiano\BaltaStrings\obj\Debug\net5.0\BaltaStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristiano\BaltaStrings\obj\Debug\net5.0\BaltaStrings.AssemblyInfoInputs.cache
+C:\Users\Cristiano\BaltaStrings\obj\Debug\net5.0\BaltaStrings.AssemblyInfo.cs
+C:\Users\Cristiano\BaltaStrings\obj\Debug\net5.0\BaltaStrings.csproj.CoreCompileInputs.cache
+C:\Users\Cristiano\BaltaStrings\obj\Debug\net5.0\BaltaStrings.dll
+C:\Users\Cristiano\BaltaStrings\obj\Debug\net5.0\ref\BaltaStrings.dll
+C:\Users\Cristiano\BaltaStrings\obj\Debug\net5.0\BaltaStrings.pdb
+C:\Users\Cristiano\BaltaStrings\obj\Debug\net5.0\BaltaStrings.genruntimeconfig.cache
